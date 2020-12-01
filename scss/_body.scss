@@ -1,0 +1,40 @@
+/*VARIABLES*/    
+    $cool-black:rgb(0, 0, 0);
+    $font-body:"Montserrat",cursive;
+    $font-size-h:30px;
+    $font-margin-h:20px;
+    $font-margin-p:5px;
+    
+/*Body*/
+body{
+    background-image: url(../Imagenes/fondo.jpg);
+    }
+    h1{
+        color:$cool-black;
+    }
+    h2{
+        font-family:$font-body;
+        font-size: $font-size-h;
+        color:$cool-black;
+        margin: $font-margin-h;
+    }
+    h3{
+        font-family:$font-body;
+        font-size: $font-size-h;
+        color:$cool-black;
+        margin: $font-margin-h;
+    }
+    h4{
+        font-family:$font-body;
+        font-size: $font-size-h;
+        color:$cool-black;
+        margin: $font-margin-h;
+
+    }
+    p{ 
+        font-family:$font-body;
+        color:$cool-black;
+        font-size: $font-size-h;
+        margin: $font-margin-p;
+        margin-top: $font-margin-h;
+    }

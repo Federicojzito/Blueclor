@@ -1,0 +1,23 @@
+/*Variables*/
+$navbar-backgound_color:rgb(0, 225, 255);
+$navbar-fontsize:30px;
+/*Nabvar*/
+.navbar{
+    background-color: $navbar-backgound-color;
+}
+ul{
+    list-style: none;
+    height: auto;
+    
+}
+ul li{
+    font-size: $navbar-fontsize;
+    display: inline-block;
+    width: 300px;
+    text-align: center;
+    height: auto;
+}
+a{
+    text-decoration: none;
+    color:inherit;  
+}
