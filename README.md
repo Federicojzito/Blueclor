@@ -2,4 +2,4 @@
 
 # Blueclor Productos de Limpieza
 
-https://federicojzito.github.io/blueclor/
+https://federicojzito.github.io/Blueclor/
